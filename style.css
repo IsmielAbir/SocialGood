@@ -12,7 +12,7 @@ body{
     background-size: cover;
     color: aliceblue;
     text-align: center;
-    width: 1550px;
+    width: 1435px;
 }
 
 button{
@@ -73,4 +73,27 @@ hr{
     width: 30%;
 
 
+}
+section{
+    display: flex;
+    margin: 200px;
+}
+.half{
+    width: 50%;
+}
+#ab{
+    width: 100%;
+}
+footer{
+    background-color: black;
+}
+.f{
+    color: aqua;
+    text-align: center;
+    
+}
+.foo{
+    color: aliceblue;
+    text-align: center;
+    
 }
